@@ -1,0 +1,11 @@
+Informe de auditoría de configuración Cisco IOS
+Dispositivo: R1 (10.20.25.1)
+Fecha local: 2026-11-11T09:11:33-05:00
+
+Modo: solo lectura. No se aplicaron reglas ni cambios.
+
+Resultados:
+[CUMPLE] SSH versión 2
+[CUMPLE] VTY acepta solo SSH
+[REVISAR] VTY tiene exec-timeout de hasta 10 minutos
+[CUMPLE] Existe un usuario local configurado con secret
