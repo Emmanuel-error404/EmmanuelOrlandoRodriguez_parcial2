@@ -1,7 +1,7 @@
 # Parcial de Redes — Emmanuel Orlando Rodriguez
 
 **Matrícula:** 20250798  
-**Video de demostración en YouTube:** pendiente de publicación; añadir aquí el enlace antes de entregar.
+**Video de demostración en YouTube:** https://youtu.be/HKQSaYZYoNg.
 
 ## Propósito
 
