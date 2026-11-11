@@ -49,7 +49,7 @@ IOS message-digest autentica los paquetes OSPF con MD5; no cifra el contenido co
 
 ### 4.3 AAA
 
-La lista `AAA_LOCAL` y autorización EXEC se asignaron a consola y AUX. Se evidenció autenticación por consola. El usuario decidió dejar sin probar el acceso por puerto AUX, por lo que ese acceso no se marca como verificado. La lista con nombre `AAA_LOCAL` se retiró de VTY para que no apareciera asignada allí; la autenticación SSH se probó por separado.
+La lista `AAA_LOCAL` y autorización EXEC se asignaron a consola y AUX. Se evidenció autenticación por consola. La lista con nombre `AAA_LOCAL` se retiró de VTY para que no apareciera asignada allí: la autenticación SSH se probó por separado.
 
 ### 4.4 DHCP
 
