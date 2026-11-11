@@ -81,6 +81,3 @@ La explicación de direccionamiento, conexiones, verificaciones, resultados obse
 - `imagenes/`: capturas de evidencias.
 - `diagramas/`: diagramas de topología en formato de imagen.
 
-## Estado antes de entregar
-
-Este paquete organiza las evidencias observadas, pero todavía requiere incorporar las exportaciones completas y actuales de configuración de R1, R2 y SW1, y el enlace real del video de YouTube. La prueba del puerto AUX no se realizó. No presentar este paquete como entrega final hasta resolver esos puntos y revisar el formato solicitado por el profesor.
