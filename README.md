@@ -37,7 +37,7 @@ El diagrama es lógico. La captura original de GNS3 disponible durante la práct
 
 ## Documentación técnica
 
-La explicación de direccionamiento, conexiones, verificaciones, resultados observados y pendientes está en [documentacion/tecnica.md](documentacion/tecnica.md).
+La explicación de direccionamiento, conexiones, verificaciones, resultados observados y pendientes está en [documentacion/tecnica.md](documentacion/Documentacion_Tecnica_GNS3_Emmanuel_Rodriguez.pdf).
 
 ## Evidencias
 
